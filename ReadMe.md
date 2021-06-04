@@ -8,15 +8,17 @@ Instructor: Hannah Jacobs
 
 This course will introduce the concept of “Optical Character Recognition” (OCR), various tools available for performing OCR, and important considerations for successfully OCRing digitized text. Using Tesseract in Python, we’ll walk through the entire process using a variety of examples to show the range of challenges scholars can face when performing OCR. By the end of the course, participants should be able to use the course’s Jupyter Notebooks to perform OCR on their own; they should be able to identify possible technical challenges presented by specific texts and propose potential solutions; and they should be able to assess the degree of accuracy they have achieved in performing OCR.
 
+## Land Acknowledgment
+
 ## Lessons
 
 00. Course Preparation
 
 01. What is OCR? Why is it important?
 
-02. Lesson 2
+02. OCR as a Process
 
-03. Lesson 3
+03. Teaching OCR
 
 ## License
 
