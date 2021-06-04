@@ -12,13 +12,19 @@ This course will introduce the concept of “Optical Character Recognition” (O
 
 ## Lessons
 
-00. Course Preparation
+- [Course Preparation (this notebook)](00-WorkshopPreparation.ipynb)
 
-01. What is OCR? Why is it important?
 
-02. OCR as a Process
+- [Lesson 1: What is OCR? Why is it important?](01-WhatIsOCR.ipynb)
 
-03. Teaching OCR
+
+- [Lesson 2: OCR as a Proess](02-OCRAsAProcess.ipynb)
+
+
+- [Lesson 3: Teaching OCR](03-TeachingOCR.ipynb)
+
+
+- [Next Steps: How to Install & Run Jupyter Notebooks Locally](04-Installing%2BRunningTesseractLocally.ipynb)
 
 ## License
 
