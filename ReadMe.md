@@ -12,7 +12,7 @@ This course will introduce the concept of “Optical Character Recognition” (O
 
 ## Lessons
 
-- [Course Preparation (this notebook)](00-WorkshopPreparation.ipynb)
+- [Course Preparation (this notebook)](00-CoursePreparation.ipynb)
 
 
 - [Lesson 1: What is OCR? Why is it important?](01-WhatIsOCR.ipynb)
