@@ -10,6 +10,10 @@ This course will introduce the concept of “Optical Character Recognition” (O
 
 ## Land Acknowledgment
 
+These materials were prepared and are presented on the ancestral homelands of the Haliwa-Saponi, Sappony, and Occaneechi Band of the Saponi nations, whose lands are now known as Durham, North Carolina. This acknowledgement reminds us of the significance of place even in a virtual space, and of our ongoing need to build a more inclusive and equitable society.
+
+Learn more about [land acknowledgments](https://nativegov.org/a-guide-to-indigenous-land-acknowledgment/). Learn about the [Occaneechi Band of the Saponi Nation Homeland Preservation project](https://obsn.org/homeland-preservation-project/).
+
 ## Lessons
 
 - [Course Preparation (this notebook)](00-CoursePreparation.ipynb)
