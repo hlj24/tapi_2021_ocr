@@ -2,3 +2,4 @@ nltk
 pillow
 pandas
 pyspellchecker
+pytesseract
