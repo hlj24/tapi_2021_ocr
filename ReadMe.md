@@ -20,7 +20,7 @@ Learn more about [land acknowledgments](https://nativegov.org/a-guide-to-indigen
 
 [![Binder](https://binder.constellate.org/badge_logo.svg)](https://binder.constellate.org/v2/gh/hlj24/tapi_2021_ocr/main)
 
-- [Course Preparation (this notebook)](00-CoursePreparation.ipynb)
+- [Course Preparation](00-CoursePreparation.ipynb)
 
 
 - [Lesson 1: What is OCR? Why is it important?](01-WhatIsOCR.ipynb)
