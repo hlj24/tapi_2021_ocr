@@ -1,5 +1,7 @@
 # Images to Text: A Gentle Introduction to Optical Character Recognition with PyTesseract
 
+[![Binder](https://binder.constellate.org/badge_logo.svg)](https://binder.constellate.org/v2/gh/hlj24/tapi_2021_ocr/main)
+
 ## Description
 
 *A 2021 [Text Analysis Pedagogy Institute](http://labs.jstor.org/tapi/) course.*
@@ -15,6 +17,8 @@ These materials were prepared and are presented on the ancestral homelands of th
 Learn more about [land acknowledgments](https://nativegov.org/a-guide-to-indigenous-land-acknowledgment/). Learn about the [Occaneechi Band of the Saponi Nation Homeland Preservation project](https://obsn.org/homeland-preservation-project/).
 
 ## Lessons
+
+[![Binder](https://binder.constellate.org/badge_logo.svg)](https://binder.constellate.org/v2/gh/hlj24/tapi_2021_ocr/main)
 
 - [Course Preparation (this notebook)](00-CoursePreparation.ipynb)
 
