@@ -1,0 +1,12 @@
+name: tapi_2021_ocr
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+
+dependencies:
+  - python
+  - jupyterlab>=3.2.9
+  - pillow
+  - tesseract
+  - pytesseract
